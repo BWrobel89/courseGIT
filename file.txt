@@ -1,1 +1,2 @@
-My frist file. Zmiana
+My frist file. 
+Next next line.
